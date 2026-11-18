@@ -1,0 +1,13 @@
+patient_number,patient_age,gender,attending_physician,medical_department,diagnosis,visit_date,admission_status,treatment_expense
+P1001,45,Female,Dr. Sarah Chen,Cardiology,Hypertension,2026-01-12,Admitted,1250.50
+P1002,67,Male,Dr. Michael Ross,Neurology,Stroke,2026-01-15,Admitted,4800.00
+P1003,29,Female,Dr. Emily Davis,Pediatrics,Asthma,2026-01-18,Outpatient,350.75
+P1004,52,Male,Dr. Sarah Chen,Cardiology,Heart Failure,2026-02-02,Admitted,6200.25
+P1005,34,Female,Dr. Robert Kim,Orthopedics,Fracture,2026-02-11,Outpatient,890.40
+P1006,45,Female,Dr. Sarah Chen,Cardiology,Hypertension,2026-02-14,Admitted,1320.00
+P1007,71,Male,Dr. Emily Davis,Neurology,Seizure,2026-02-20,Admitted,3900.00
+P1008,23,Female,Dr. Ava Patel,Pediatrics,Pneumonia,2026-03-03,Outpatient,475.60
+P1009,58,Male,Dr. Robert Kim,Orthopedics,Joint Pain,2026-03-09,Outpatient,725.25
+P1010,45,Female,Dr. Sarah Chen,Cardiology,Hypertension,2026-03-16,Admitted,1400.00
+P1011,,Male,Dr. Michael Ross,Neurology,Migraine,2026-03-22,Outpatient,280.50
+P1012,63,Female,Dr. Ava Patel,Pediatrics,Diabetes,2026-04-01,Admitted,3100.00
